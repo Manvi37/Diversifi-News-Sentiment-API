@@ -2,4 +2,4 @@ fastapi
 uvicorn
 feedparser
 nltk
-sqlalchemy
+textblob
