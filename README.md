@@ -11,7 +11,7 @@ This FastAPI service fetches news headlines for a given Indian stock symbol, per
 - FastAPI
 - feedparser
 - TextBlob
-- SQLite (via SQLAlchemy)
+- SQLite
 - Uvicorn
 
 ## Use of AI Tools
