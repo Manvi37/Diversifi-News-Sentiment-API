@@ -1,0 +1,5 @@
+fastapi==0.109.1
+uvicorn==0.28.0
+feedparser==6.0.10
+textblob==0.17.1
+python-dotenv==1.0.0
