@@ -10,7 +10,7 @@ This FastAPI service fetches news headlines for a given Indian stock symbol, per
 ## 🛠 Tech Stack
 - FastAPI
 - feedparser
-- NLTK (VADER)
+- TextBlob
 - SQLite (via SQLAlchemy)
 - Uvicorn
 
