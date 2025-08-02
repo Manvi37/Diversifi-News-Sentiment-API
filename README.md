@@ -6,7 +6,6 @@ This FastAPI service fetches news headlines for a given Indian stock symbol, per
 - ✅ Fetches latest headlines from Google News RSS
 - ✅ Performs sentiment analysis using VADER (NLTK)
 - ✅ Stores results in SQLite
-- ✅ Caches results for 10 minutes
 
 ## 🛠 Tech Stack
 - FastAPI
