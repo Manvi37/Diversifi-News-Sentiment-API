@@ -20,3 +20,8 @@ This FastAPI service fetches news headlines for a given Indian stock symbol, per
 ```bash
 pip install -r requirements.txt
 uvicorn main:app --reload
+
+🤖 Use of AI Tools
+To speed up development while maintaining original design and structure:
+- ChatGPT was used for debugging (e.g., fixing coroutine serialization issues), validating logic, and suggesting improvements for handling edge cases.
+- DeepSeek was used to assist with boilerplate generation and to accelerate implementation of certain FastAPI components.
